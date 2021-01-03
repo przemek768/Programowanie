@@ -1,0 +1,2 @@
+Zad. 10funkcja int minParzysta(int  tablica[],int rozmiar)zwraca w wyniku najmniejsza parzystą wartość z tablicytablica: {3, 5, 8, 1, 9, 4, 7 } wynik 4
+zad.12Funkcja: int f1(char napis[])zwraca w wyniku z ilu różnych znaków składa się napis.Np.: f1(„Ala ma kota”) wynik 8   (Ala mkot)
